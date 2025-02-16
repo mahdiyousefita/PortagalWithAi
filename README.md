@@ -1,2 +1,5 @@
 # PortagalWithAi
-Idk why i put this name...
+Idk why I put this name...
+
+[Project Screenshot]
+(screen_shot.jpg)
